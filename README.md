@@ -1,6 +1,6 @@
 # Fat7yMo7amed
 # 💫 About Me:
-I'm Currently Studying Learn HTML and CSS and JavaScript and Currently study react<br> 
+I'm Front-End Developer and AI Engineer<br> 
 
 
 ## 🌐 Socials:
